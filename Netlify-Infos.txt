@@ -4,3 +4,5 @@ https://jovial-roentgen-31efe8.netlify.app
 
 postgresql://postgres:postgres@localhost:5432/redwoodblog_dev
 
+postgresql://postgres:KiJMOCVsxdq4k1x7ORH89g==@containers-us-west-2.railway.app:5885/railway
+
